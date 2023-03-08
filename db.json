@@ -1,0 +1,38 @@
+{
+  "cards": [
+    {
+      "name": "Citadel - Official Trailer | Prime Video India",
+      "link": "https://www.youtube.com/embed/MBOhKd6cIak",
+      "bucketId": 1,
+      "id": 1
+    },
+    {
+      "name": "Health Anxiety - Standup Comedy by Abhishek Upmanyu (Full Special on YT)",
+      "link": "https://www.youtube.com/embed/_fWyWcZB7VA",
+      "bucketId": 1,
+      "id": 2
+    },
+    {
+      "name": "Hair by Mr Bean of London | Episode 14 | Widescreen | Mr Bean Official",
+      "link": "https://www.youtube.com/embed/x1YGCzmxEoo",
+      "bucketId": 2,
+      "id": 3
+    },
+    {
+      "name": " 8:24 NOW PLAYING  Watch later Add to queue Charlie Chaplin Comedy Videos",
+      "link": "https://www.youtube.com/embed/6Lsil8253GI",
+      "bucketId": 2,
+      "id": 4
+    }
+  ],
+  "buckets": [
+    {
+      "id": 1,
+      "name": "Entertainment Videos"
+    },
+    {
+      "name": "Comedy Videos",
+      "id": 2
+    }
+  ]
+}
